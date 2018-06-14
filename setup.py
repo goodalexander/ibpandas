@@ -7,5 +7,5 @@ setup(name='ibpandas',
       author='goodalexander',
       author_email='goodalexander@gmail.com',
       license='MIT',
-      packages=['ibpandas'],
+      packages=['pandas','ibapi','threading','queue','time'],
       zip_safe=False)
