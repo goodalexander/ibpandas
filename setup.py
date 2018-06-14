@@ -15,7 +15,7 @@ if sys.argv[-1] == 'publish':
 
 setup(
     name='ibpandas',
-    packages=[],
+    packages=['ibpandas'],
     description='ib for pandas, pandas for ib',
     long_description='use pandas to interact w the interactive brokers api',
     version='0.1',
