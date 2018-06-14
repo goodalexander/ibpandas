@@ -18,7 +18,7 @@ setup(
     packages=[],
     description='ib for pandas, pandas for ib',
     long_description='use pandas to interact w the interactive brokers api',
-    version=1,
+    version='0.1',
     author='Alex Good',
     author_email='goodalexander@gmail.com',
     url='https://github.com/goodalexander/ibpandas',
